@@ -1,0 +1,8 @@
+@media screen and (max-width: 910px) {
+    body {}
+
+    .headright {
+        padding-left: 60px;
+    }
+
+}

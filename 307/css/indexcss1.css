@@ -1,0 +1,178 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+
+.headall{
+    width: 100%;
+    height: 170px;
+
+
+}
+
+.headcon{
+    width: 1200px;
+    height: 100px;
+    margin: 0 auto;
+    margin-top: 50px;
+
+}
+
+.headlogo{
+    width: 200px;
+    height: 169px;
+    float: left;
+    margin-top: 30px;
+    padding-left: 10px;
+}
+
+.headright {
+    width: 114px;
+    height: 40px;
+    float: left;
+    margin-top: 70px;
+    padding-right: 5px;
+    padding-left: 800px;
+}
+
+.bannar{
+    width:100%;
+    height:200px;
+    margin: 0;
+
+}
+
+/*.bannartxt{
+    color: white;
+    text-align: center;
+    font-size: 70px;
+    margin: 0 auto;
+    margin-top: 270px;
+}*/
+
+
+.main{
+    width: 100%;
+    height: 1400px;
+    margin-top: 100px;
+}
+
+.main1{
+    width:1200px ;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.maintitle{
+    width: 100%;
+    height:auto;
+    color: black;
+    text-align: left;
+    font-size: 30px;
+}
+
+.main11{
+    width:1200px ;
+    height:auto;
+    float: left;
+
+}
+
+.maintext{
+    width: 550px;
+    height: 320px;
+    float: left;
+    color: black;
+    font-size: 18px;
+    margin-top: 30px;
+    padding-left: 80px;
+}
+
+.mainimg{
+    width: 530px;
+    height: auto;
+    float: left;
+    margin-top: 30px;
+
+}
+
+.main22{
+    float: left;
+    width:1200px;
+    height: 1500px;
+}
+
+.maintext2{
+    width: 1200px;
+    height: 100px;
+    color: black;
+    font-size: 30px;
+    float: left;
+    margin-top: 50px;
+}
+
+.pics{
+    width:480px;
+    height: 330px;
+    margin-top: 30px;
+    float: left;
+    padding-left:85px;
+}
+
+.pics1{
+    width:550px;
+    height: 307px;
+    margin-top: 50px;
+    float: left;
+    padding-left: 50px;
+}
+
+.maintext3{
+    width: 400px;
+    height: 180px;
+    color: black;
+    font-size: 18px;
+    margin-top: 160px;
+    float: left;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.maintext4{
+    width: 1200px;
+    height: 30px;
+    color: black;
+    font-size: 18px;
+    float: left;
+    margin-top: 0;
+    padding-left: 50px;
+}
+
+.mainfoot{
+    width: 120px;
+    height: 50px;
+    margin-left: 350px;
+    float: left;
+}
+
+
+.foot{
+    width:100%;
+    height: 130px;
+    float: left;
+    margin: 0;
+    background-image: url("../images/7.jpg");
+    background-size:100%;
+    background-repeat: no-repeat;
+
+}
+
+.foottxt{
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    margin: 0 auto;
+    margin-top: 34px;
+}
+
